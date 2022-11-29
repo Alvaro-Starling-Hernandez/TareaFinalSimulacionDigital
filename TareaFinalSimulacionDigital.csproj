@@ -79,5 +79,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="images\dronAbono.jpg" />
+    <Content Include="images\dronAgua.jpg" />
+    <Content Include="images\dronAguaPosible-removebg-preview.png" />
+    <Content Include="images\dronSemillas.jpeg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
